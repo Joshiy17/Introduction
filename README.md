@@ -1,4 +1,4 @@
- B**.Tech in Computer Science (Distinction, 8.34/10) – Symbiosis University**
+** B.Tech in Computer Science (Distinction, 8.34/10) – Symbiosis University**
  
      (Modules: Machine Learning, AI, IoT, Analysis Design Algorithms, Applied Mathematics and Statistics)
 
