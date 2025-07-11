@@ -9,8 +9,7 @@
 ** Data Science Certificate (93.5%) – The University of Edinburgh, Scotland**
 
     (ML, NLP, Python, Data Analytics )
-    
-
+   
 
 **Skills **
 
@@ -26,6 +25,11 @@
 
  <img width="113" height="96" alt="image" src="https://github.com/user-attachments/assets/11d8715f-e392-4ee9-ad75-aa9d6e95ca9b" /> <img width="104" height="81" alt="image" src="https://github.com/user-attachments/assets/b426c693-0f63-42b9-b7a8-36f8621decb9" /> <img width="136" height="81" alt="image" src="https://github.com/user-attachments/assets/4e4666e0-9d8e-4415-8498-61a7f28f8c90" />
 <img width="1255" height="111" alt="image" src="https://github.com/user-attachments/assets/ccd38515-e6c8-4ab5-a0b6-bb2f61d11af4" />
+
+**Research Interest **
+
+<img width="854" height="90" alt="image" src="https://github.com/user-attachments/assets/abb7cb51-a83c-4265-aab4-6f6a2aec9041" />
+
 
 
 
