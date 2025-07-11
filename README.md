@@ -1,3 +1,18 @@
+ B**.Tech in Computer Science (Distinction, 8.34/10) – Symbiosis University**
+ 
+     (Modules: ML, AI, IoT, ADA)
+
+** MSc Strategic Marketing (Merit) – The University of Surrey, UK**
+
+    (Modules: Applied Analytics, Consumer behaviour, Innovation)
+
+** Data Science Certificate (93.5%) – The University of Edinburgh, Scotland**
+
+    (ML, NLP, Python, Data Analytics )
+    
+    <img width="601" height="697" alt="image" src="https://github.com/user-attachments/assets/a3a04842-c908-4e43-b3aa-99bfa8662cd9" />
+
+
 **Skills **
 
  Programming: Python, R, Java/J2ee MATLAB, SQL
