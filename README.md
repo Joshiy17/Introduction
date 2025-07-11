@@ -10,7 +10,6 @@
 
     (ML, NLP, Python, Data Analytics )
     
-    <img width="601" height="697" alt="image" src="https://github.com/user-attachments/assets/a3a04842-c908-4e43-b3aa-99bfa8662cd9" />
 
 
 **Skills **
