@@ -1,10 +1,10 @@
  B**.Tech in Computer Science (Distinction, 8.34/10) – Symbiosis University**
  
-     (Modules: ML, AI, IoT, ADA)
+     (Modules: Machine Learning, AI, IoT, Analysis Design Algorithms, Applied Mathematics and Statistics)
 
 ** MSc Strategic Marketing (Merit) – The University of Surrey, UK**
 
-    (Modules: Applied Analytics, Consumer behaviour, Innovation)
+    (Modules: Applied Analytics, Consumer Behaviour, Innovation and Strategy)
 
 ** Data Science Certificate (93.5%) – The University of Edinburgh, Scotland**
 
